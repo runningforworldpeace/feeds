@@ -9,7 +9,6 @@
 0,0,0,http://static.polystory.com/0a7edc90f67acb22cbd4b24c258bb8f2.jpg
 0,0,0,http://static.polystory.com/0ad7ebbf0b2ab1a24858fe0248e420d9.jpg
 0,0,0,http://static.polystory.com/0afde8dbd4338001cc0117f0b145aafe.jpg
-0,0,0,http://static.polystory.com/0b541a9e2238db35a8930c9ee723959b.jpg
 0,0,0,http://static.polystory.com/0c3d619ab4450eb8906234644b2521a4.jpg
 0,0,0,http://static.polystory.com/0d064db77ec10af80aadd87caa39f413.jpg
 0,0,0,http://static.polystory.com/0d1fb8cce3d689241b581371d226948b.jpg
