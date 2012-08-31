@@ -1,6 +1,5 @@
 0,0,0,http://static.polystory.com/00a6b2ad52a22ef57d3230f2869c687f.jpg
 0,0,0,http://static.polystory.com/00af31f3625ee290970ca418a33a80a6.jpg
-0,0,0,http://static.polystory.com/00e27195fa3aec3d57792b00543f0129.jpg
 0,0,0,http://static.polystory.com/03a6b7a5b3b7eb3b2d2908af26f1e95a.jpg
 0,0,0,http://static.polystory.com/03ba5e686e20a5c098deea5222c7b505.jpg
 0,0,0,http://static.polystory.com/04e51c93e482226512e21d499a085664.jpg
@@ -27,12 +26,10 @@
 0,0,0,http://static.polystory.com/1c158abb958ffa972650c5e60591dcd2.jpg
 0,0,0,http://static.polystory.com/1d17f3b19bbc7e0cd32979bbb43b6148.jpg
 0,0,0,http://static.polystory.com/1d53ebe217f5fbd7731187bf9dda6993.jpg
-0,0,0,http://static.polystory.com/1d645685eb630e39cd1b70d3d92ff5c1.jpg
 0,0,0,http://static.polystory.com/1da1c0bcba37490f0750c65ba9feb7f4.jpg
 0,0,0,http://static.polystory.com/1db725a302a83cff6422131015fd3726.jpg
 0,0,0,http://static.polystory.com/1de2883c7e5c421ac15319a92664fa6a.jpg
 0,0,0,http://static.polystory.com/1e03886d0aa64dffc1a0f203c437b26d.jpg
-0,0,0,http://static.polystory.com/2a3bf19112fa37de83bd64b864456f3c.jpg
 0,0,0,http://static.polystory.com/2b11258e97f1e2d75111ec5b69cb2ee3.jpg
 0,0,0,http://static.polystory.com/2b738d5cb29598623083b369eb10e712.jpg
 0,0,0,http://static.polystory.com/2da997df7d840fd37735b3af4f143ca0.jpg
